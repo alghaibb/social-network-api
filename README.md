@@ -2,8 +2,11 @@
 
 [![Node.js](https://img.shields.io/badge/Node.js-14.x-green?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-4.x-orange?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 [![MongoDB](https://img.shields.io/badge/MongoDB-4.x-green?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Mongoose](https://img.shields.io/badge/Mongoose-5.x-blue?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
+
 [![pnpm](https://img.shields.io/badge/pnpm-latest-blue?style=for-the-badge&logo=pnpm&logoColor=white)](https://pnpm.io/)
 [![Insomnia](https://img.shields.io/badge/Insomnia-latest-lightgrey?style=for-the-badge&logo=insomnia&logoColor=white)](https://insomnia.rest/)
 
@@ -96,6 +99,8 @@ These experiences collectively contribute to my growth as a backend developer, p
   <img alt="screenshot" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJ1c2RqbWhzN21waGNjeXBmZ3l1N2wzeHBnbDdsMHlyZGJtdWdqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RHt1VLtlIlBT70yoHq/giphy.gif" width="400px"><br>
   Live Sreenshot GIF
 </p>
+
+[![VIDEO DEMONSTRATION](https://img.youtube.com/vi/I19KCznO7j8/0.jpg)](https://www.youtube.com/watch?v=I19KCznO7j8)
 
 <a href="#table-of-contents">Back to Table of Contents</a>
 
